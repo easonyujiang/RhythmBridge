@@ -1,0 +1,542 @@
+[
+  {
+    "title": "アンドロイドガール",
+    "romaji": "Andoroido Gaaru",
+    "targets": [
+      "maimai:1122",
+      "chunithm:1067"
+    ],
+    "variants": [
+      {
+        "title": "アンドロイドガール",
+        "artist": "DECO*27, 初音ミク"
+      },
+      {
+        "title": "アンドロイドガール",
+        "artist": "DECO*27"
+      },
+      {
+        "title": "アンドロイドガール",
+        "artist": "DECO*27"
+      }
+    ],
+    "note": "DECO*27 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "群青讃歌",
+    "romaji": "Gunjou Sanka",
+    "targets": [
+      "maimai:1492",
+      "chunithm:2304"
+    ],
+    "variants": [
+      {
+        "title": "群青讃歌 (feat. 星乃一歌&花里みのり&小豆沢こはね&天馬司&宵崎奏&初音ミク)",
+        "artist": "Eve, プロジェクトセカイ, 初音ミク, 星乃一歌, 花里みのり, 小豆沢こはね, 天馬司, 宵崎奏"
+      },
+      {
+        "title": "群青讃歌",
+        "artist": "Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+      },
+      {
+        "title": "群青讃歌",
+        "artist": "Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+      }
+    ],
+    "note": "Eve／初音ミク与 Project SEKAI 角色版本",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "アスノヨゾラ哨戒班",
+    "romaji": "Asuno Yozora Shoukaihan",
+    "targets": [
+      "maimai:1198",
+      "chunithm:210"
+    ],
+    "variants": [
+      {
+        "title": "アスノヨゾラ哨戒班 (Cover)",
+        "artist": "Afterglow"
+      },
+      {
+        "title": "アスノヨゾラ哨戒班",
+        "artist": "Orangestar, IA"
+      },
+      {
+        "title": "IA-アスノヨゾラ哨戒班/明日的夜空哨戒班（REGG$HOTS / Akie秋绘 / 夏璃夜 remix）",
+        "artist": "RADI8, Akie秋绘, 夏璃夜"
+      },
+      {
+        "title": "アスノヨゾラ哨戒班",
+        "artist": "Orangestar feat.IA"
+      },
+      {
+        "title": "アスノヨゾラ哨戒班",
+        "artist": "Orangestar"
+      }
+    ],
+    "note": "Afterglow 翻唱、Orangestar 原作、RADI8 等 Remix；舞萌另收录乐队改编版 キミノヨゾラ哨戒班（507）",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "だんだん早くなる",
+    "romaji": "Dandan Hayaku Naru",
+    "targets": [
+      "maimai:513",
+      "chunithm:375"
+    ],
+    "variants": [
+      {
+        "title": "だんだん早くなる",
+        "artist": "40mP, 初音ミク"
+      },
+      {
+        "title": "だんだん早くなる",
+        "artist": "40mP"
+      },
+      {
+        "title": "だんだん早くなる",
+        "artist": "40mP"
+      }
+    ],
+    "note": "40mP 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "インドア系ならトラックメイカー",
+    "romaji": "Indoa Kei Nara Torakku Meikaa",
+    "targets": [
+      "maimai:1358",
+      "chunithm:958"
+    ],
+    "variants": [
+      {
+        "title": "インドア系ならトラックメイカー",
+        "artist": "Yunomi, nicamoq"
+      },
+      {
+        "title": "室内系的TrackMaker(YUNOMI)（翻自 nicamoq）",
+        "artist": "Hanser"
+      },
+      {
+        "title": "インドア系ならトラックメイカー",
+        "artist": "Yunomi & nicamoq"
+      },
+      {
+        "title": "インドア系ならトラックメイカー",
+        "artist": "Yunomi & nicamoq"
+      }
+    ],
+    "note": "Yunomi & nicamoq 原作；Hanser 的《室内系的TrackMaker》为翻唱",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "前前前世",
+    "romaji": "Zenzenzense",
+    "targets": [
+      "maimai:853",
+      "chunithm:421"
+    ],
+    "variants": [
+      {
+        "title": "前前前世（Slow Ver.）",
+        "artist": "泠鸢yousa"
+      },
+      {
+        "title": "前前前世",
+        "artist": "RADWIMPS"
+      },
+      {
+        "title": "前前前世",
+        "artist": "RADWIMPS「君の名は。」"
+      }
+    ],
+    "note": "歌单为泠鸢yousa 的 Slow Ver.，游戏登记 RADWIMPS",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "だから僕は音楽を辞めた",
+    "romaji": "Dakara Boku wa Ongaku o Yameta",
+    "targets": [
+      "maimai:1115",
+      "chunithm:1002"
+    ],
+    "variants": [
+      {
+        "title": "だから僕は音楽を辞めた",
+        "artist": "ヨルシカ"
+      },
+      {
+        "title": "だから僕は音楽を辞めた",
+        "artist": "ヨルシカ"
+      },
+      {
+        "title": "だから僕は音楽を辞めた",
+        "artist": "ヨルシカ"
+      }
+    ],
+    "note": "ヨルシカ",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "ゴーストルール",
+    "romaji": "Goosuto Ruuru",
+    "targets": [
+      "maimai:552",
+      "chunithm:594"
+    ],
+    "variants": [
+      {
+        "title": "ゴーストルール",
+        "artist": "DECO*27, 初音ミク"
+      },
+      {
+        "title": "ゴーストルール",
+        "artist": "DECO*27"
+      },
+      {
+        "title": "ゴーストルール",
+        "artist": "DECO*27"
+      }
+    ],
+    "note": "DECO*27 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "太陽系デスコ",
+    "romaji": "Taiyoukei Desuko",
+    "targets": [
+      "maimai:1069",
+      "chunithm:844"
+    ],
+    "variants": [
+      {
+        "title": "太陽系デスコ",
+        "artist": "ナユタン星人, 初音ミク"
+      },
+      {
+        "title": "太阳系DISCO（Cover miku）",
+        "artist": "Hanser, YUKIri"
+      },
+      {
+        "title": "太陽系デスコ",
+        "artist": "ナユタン星人"
+      },
+      {
+        "title": "太陽系デスコ",
+        "artist": "ナユタン星人"
+      }
+    ],
+    "note": "ナユタン星人原作；Hanser、YUKIri 的《太阳系DISCO》为翻唱",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "アカリがやってきたぞっ",
+    "romaji": "Akari ga Yatte Kita zo",
+    "targets": [
+      "maimai:1073",
+      "chunithm:841"
+    ],
+    "variants": [
+      {
+        "title": "アカリがやってきたぞっ",
+        "artist": "紲星あかり, GYARI"
+      },
+      {
+        "title": "アカリがやってきたぞっ",
+        "artist": "GYARI"
+      },
+      {
+        "title": "アカリがやってきたぞっ",
+        "artist": "GYARI"
+      }
+    ],
+    "note": "GYARI／紲星あかり",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "深海少女",
+    "romaji": "Shinkai Shoujo",
+    "targets": [
+      "maimai:315",
+      "chunithm:279"
+    ],
+    "variants": [
+      {
+        "title": "深海少女",
+        "artist": "のぶなが, ゆうゆ"
+      },
+      {
+        "title": "深海少女",
+        "artist": "ゆうゆ"
+      },
+      {
+        "title": "深海少女",
+        "artist": "ゆうゆ"
+      }
+    ],
+    "note": "歌单为 のぶなが、ゆうゆ 版本，游戏登记 ゆうゆ 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "天ノ弱",
+    "romaji": "Amanojaku",
+    "targets": [
+      "maimai:188",
+      "chunithm:38"
+    ],
+    "variants": [
+      {
+        "title": "天ノ弱 -うぃんぐPiano Ver.-",
+        "artist": "Akie秋绘"
+      },
+      {
+        "title": "天ノ弱",
+        "artist": "164"
+      },
+      {
+        "title": "天ノ弱",
+        "artist": "164"
+      }
+    ],
+    "note": "歌单为 Akie秋绘 的 うぃんぐPiano Ver.，游戏登记 164 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "演劇",
+    "romaji": "Engeki",
+    "targets": [
+      "maimai:1780"
+    ],
+    "variants": [
+      {
+        "title": "演劇 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ)",
+        "artist": "25時、ナイトコードで。, 巡音ルカ"
+      },
+      {
+        "title": "演劇",
+        "artist": "ナノウ"
+      }
+    ],
+    "note": "歌单为 25時、ナイトコードで。角色演唱版本，游戏登记 ナノウ 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "Burn My Soul",
+    "romaji": "Burn My Soul",
+    "targets": [
+      "maimai:1639"
+    ],
+    "variants": [
+      {
+        "title": "Burn My Soul",
+        "artist": "She is Legend"
+      },
+      {
+        "title": "Burn My Soul",
+        "artist": "She is Legend"
+      }
+    ],
+    "note": "She is Legend；目录标记 disabled=true，当前禁用，不计入正常收录数量",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "PANDORA PARADOXXX",
+    "romaji": "PANDORA PARADOXXX",
+    "targets": [
+      "maimai:834"
+    ],
+    "variants": [
+      {
+        "title": "PANDORA PARADOXXX",
+        "artist": "削除"
+      },
+      {
+        "title": "PANDORA PARADOXXX",
+        "artist": "削除"
+      }
+    ],
+    "note": "削除",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "Alice in 冷凍庫",
+    "romaji": "Alice in Reitouko",
+    "targets": [
+      "maimai:1265"
+    ],
+    "variants": [
+      {
+        "title": "Alice in 冷凍庫",
+        "artist": "めありー, Orangestar"
+      },
+      {
+        "title": "Alice in 冷凍庫",
+        "artist": "Orangestar"
+      }
+    ],
+    "note": "歌单为 めありー 演唱版本，游戏登记 Orangestar 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "春を告げる",
+    "romaji": "Haru o Tsugeru",
+    "targets": [
+      "maimai:1346"
+    ],
+    "variants": [
+      {
+        "title": "春を告げる",
+        "artist": "yama"
+      },
+      {
+        "title": "春を告げる",
+        "artist": "yama"
+      }
+    ],
+    "note": "yama",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "ツギハギスタッカート",
+    "romaji": "Tsugihagi Sutakkaato",
+    "targets": [
+      "maimai:1655"
+    ],
+    "variants": [
+      {
+        "title": "拼凑的断音 (翻唱版)",
+        "artist": "Hanser"
+      },
+      {
+        "title": "ツギハギスタッカート",
+        "artist": "nameless"
+      },
+      {
+        "title": "ツギハギスタッカート",
+        "artist": "とあ"
+      }
+    ],
+    "note": "Hanser《拼凑的断音》和 nameless 版本，游戏登记 とあ 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "妄想感傷代償連盟",
+    "romaji": "Mousou Kanshou Daishou Renmei",
+    "targets": [
+      "maimai:731"
+    ],
+    "variants": [
+      {
+        "title": "妄想感傷代償連盟",
+        "artist": "DECO*27, 初音ミク"
+      },
+      {
+        "title": "妄想感傷代償連盟",
+        "artist": "DECO*27"
+      }
+    ],
+    "note": "DECO*27 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "生きる",
+    "romaji": "Ikiru",
+    "targets": [
+      "chunithm:2318"
+    ],
+    "variants": [
+      {
+        "title": "生きる (feat. 可不)",
+        "artist": "水野あつ, 可不"
+      },
+      {
+        "title": "生きる",
+        "artist": "25時、ナイトコードで。, MEIKO, 宵崎奏, 暁山瑞希"
+      },
+      {
+        "title": "生きる",
+        "artist": "水野あつ"
+      }
+    ],
+    "note": "水野あつ／可不原作；另有 25時、ナイトコードで。翻唱",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "迷星叫",
+    "romaji": "Mayoiuta",
+    "targets": [
+      "chunithm:2630"
+    ],
+    "variants": [
+      {
+        "title": "迷星叫",
+        "artist": "MyGO!!!!!"
+      },
+      {
+        "title": "迷星叫",
+        "artist": "MyGO!!!!!"
+      }
+    ],
+    "note": "MyGO!!!!!",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "Kronos",
+    "romaji": "Kronos",
+    "targets": [
+      "chunithm:291"
+    ],
+    "variants": [
+      {
+        "title": "Kronos",
+        "artist": "削除"
+      },
+      {
+        "title": "Kronos",
+        "artist": "削除"
+      }
+    ],
+    "note": "削除",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "DAYBREAK FRONTLINE",
+    "romaji": "DAYBREAK FRONTLINE",
+    "targets": [
+      "chunithm:656"
+    ],
+    "variants": [
+      {
+        "title": "DAYBREAK FRONTLINE",
+        "artist": "鹿乃"
+      },
+      {
+        "title": "DAYBREAK FRONTLINE",
+        "artist": "Orangestar"
+      }
+    ],
+    "note": "歌单为鹿乃翻唱，游戏登记 Orangestar 原作",
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "title": "ワールドイズマイン",
+    "romaji": "Waarudo Izu Main",
+    "targets": [
+      "chunithm:2343"
+    ],
+    "variants": [
+      {
+        "title": "ワールドイズマイン",
+        "artist": "初音ミク, ryo (supercell)"
+      },
+      {
+        "title": "ワールドイズマイン",
+        "artist": "supercell feat. 初音ミク"
+      }
+    ],
+    "note": "ryo (supercell)／初音ミク",
+    "reviewed_at": "2026-10-12"
+  }
+]

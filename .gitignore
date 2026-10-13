@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.pytest_cache/
+
+# 本地运行时产物（含 DSH 会话记录、诊断产物）
+exports/
+uploads/
+work/
+.work/
+.dsh-acl-recovery/
+
+# 依赖
+node_modules/
+integrations/*/node_modules/
+
+# 凭据与本地配置
+.env
+.env.*
+*.local
+credentials*.json
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

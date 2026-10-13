@@ -1,0 +1,9 @@
+[project]
+name = "rhythmbridge"
+version = "0.4.0"
+description = "Local CSV playlist matching for maimai DX and CHUNITHM"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

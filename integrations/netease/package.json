@@ -1,0 +1,9 @@
+{
+  "name": "rhythmbridge-netease-helper",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Local metadata-only adapter for RhythmBridge",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.cjs" },
+  "dependencies": { "@neteasecloudmusicapienhanced/api": "4.41.1" }
+}
